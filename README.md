@@ -1,6 +1,8 @@
 # 💫About Me :
 🔭 I’m currently working on my skills
+
 📫 How to reach me: contact@mail.feitalnunes.com
+
 👨‍💻 All of my projects are available at: https://github.com/willn13/Data_Analyst_Portfolio
 
 ## 🌐Socials
